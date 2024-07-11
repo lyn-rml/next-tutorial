@@ -1,0 +1,7 @@
+{
+    "git.enableCommitSigning": true,
+    "git.enableSmartCommit": true,
+    "git.terminalGitEditor": true,
+    "terminal.integrated.shellIntegration.enabled": false,
+    "terminal.explorerKind": "external"
+}
